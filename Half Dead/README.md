@@ -4,8 +4,6 @@ Tested with Build 2143410.
 
 Photon SDK Server v4.0.28.2962 is required.
 
-Code is in the source folder.
-
 Don't forget to back up your **Assembly-CSharp.dll**.
 
 ## Instructions
