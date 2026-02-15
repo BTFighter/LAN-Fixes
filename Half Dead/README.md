@@ -1,6 +1,8 @@
-![Screencheat](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/301970/header.jpg)  
+![Half Dead](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/434730/header.jpg)  
 # Screencheat
-Tested with Windows GOG Release v3.3.0.
+Tested with Build 2143410.
+
+Photon SDK Server v4.0.28.2962 is required.
 
 Code is in the source folder.
 
