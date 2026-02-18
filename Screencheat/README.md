@@ -7,4 +7,4 @@ Code is in the source folder.
 Don't forget to back up your **Assembly-CSharp.dll**.
 
 ## Instructions
-Place **Assembly-CSharp.dll** at _"screencheat_Data\Managed\"_
+Place files in **"out"** to your game folder.

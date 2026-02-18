@@ -17,7 +17,7 @@ _3._ Go to LoadBalancing and press "Start as application", and the server should
 
 **Game** (**ALL** players):
 
-_4._ Place **images** and **CluePhotonLANFix.dll** at _"BepInEx\plugins"_
+_4._ Place files in **"out"** to your game folder.
 
 _5._ Go to, _"BepInEx\config"_, open **photonLAN.clue.photonlanfix.cfg**, change **Server** to the IP of who is hosting.
 

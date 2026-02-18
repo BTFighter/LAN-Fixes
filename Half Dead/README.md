@@ -24,9 +24,9 @@ _3._ Go to LoadBalancing and press "Start as application", and the server should
 
 **Game** (**ALL** players):
 
-_4._ Place **Assembly-CSharp.dll** at _"HalfDead_Data\Managed"_
+_4._ Place files in **"out"** folder to your game folder.
 
-_5._ Open "photon_config.ini" change "Address" to the IP of who is hosting.
+_5._ Open "photon_config.ini" then change "Address" to the IP of who is hosting.
 
 _6._ Save and run the game.
 
