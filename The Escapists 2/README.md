@@ -10,7 +10,7 @@ Don't forget to back up your **Assembly-CSharp.dll**.
 
 **Install and use Photon Server** (Host only):
 
-_1._ Go to (Your Photon Server)\bin_Win64 and run PhotonControl.exe.
+_1._ Go to "_(Your Photon Server)\bin_Win64_" and run PhotonControl.exe.
 
 _2._ Open Photon Control in the Hidden Icon Menu (Taskbar arrow), to Game Server IP Config and press 'Set Local IP'.
   - This sets the IP of the server, if you don't do this players joining you will connect to 127.0.0.1 instead.
