@@ -2,7 +2,7 @@
 # Clue/Cluedo: Classic Edition
 Tested with Build 13116452.
 
-[**BepInEx x86**](https://archive.org/details/photon-server-v-4.0.28.2962) and [**Photon SDK Server v4.0.28.2962**](https://archive.org/details/photon-server-v-4.0.28.2962) is required.
+[**BepInEx x86**](https://github.com/BepInEx/BepInEx/releases) and [**Photon SDK Server v4.0.28.2962**](https://archive.org/details/photon-server-v-4.0.28.2962) is required.
 
 ## Instructions
 
