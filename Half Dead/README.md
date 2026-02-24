@@ -9,7 +9,7 @@ Don't forget to back up your **Assembly-CSharp.dll**.
 ## Issues
 
 - Game sometimes freezes and crashes when you create and close games within a short time.
-- "Join" button rarely works, join a game by using "Random" instead.
+  - "Join" button rarely works, join a game by using "Random" instead.
 
 ## Instructions
 
