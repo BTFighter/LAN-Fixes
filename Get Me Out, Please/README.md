@@ -10,15 +10,15 @@ Don't forget to back up your **Assembly-CSharp.dll**.
 
 **Install and use Photon Server** (Host only):
 
-_1._ Go to "PhotonServer\bin_Win64" and run PhotonControl.exe.
+1. Go to "PhotonServer\bin_Win64" and run PhotonControl.exe.
 
-_2._ Open Photon Control in the Hidden Icon Menu (Taskbar arrow), press 'Edit NameServer.json' and input your IP Address there. (IPv4 only), afterwards save the file.
+2. Open Photon Control in the Hidden Icon Menu (Taskbar arrow), press 'Edit NameServer.json' and input your IP Address there. (IPv4 only), afterwards save the file.
 
-_3._ Go back to Photon Control, to Game Server IP Config and press 'Set Local IP'.
-     - This sets the IP of the server, if you don't do this players joining you will connect to 127.0.0.1 instead.
+3. Go back to Photon Control, to Game Server IP Config and press 'Set Local IP'.  
+	- This sets the IP of the server, if you don't do this players joining you will connect to 127.0.0.1 instead.
 
-_4._ Go back to PhotonServer\bin_Win64 and run CLRPreloadLauncher.exe
-     - Keep pressing 'OK'. You should get the message 'Started CLR instance!'. Check the server (refer to the pic) if it's running and not shutting down after 10 seconds.
+4. Go back to PhotonServer\bin_Win64 and run CLRPreloadLauncher.exe.  
+	- Keep pressing 'OK'. You should get the message 'Started CLR instance!'. Check the server (refer to the pic) if it's running and not shutting down after 10 seconds.
 	 
 Image
 
