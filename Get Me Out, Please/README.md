@@ -20,7 +20,7 @@ Don't forget to back up your **Assembly-CSharp.dll**.
 4. Go back to PhotonServer\bin_Win64 and run CLRPreloadLauncher.exe.  
 	- Keep pressing 'OK'. You should get the message 'Started CLR instance!'. Check the server (refer to the pic) if it's running and not shutting down after 10 seconds.
 	 
-Image
+![photo_2026-02-11_06-26-40](https://github.com/user-attachments/assets/24cad748-0cfe-4ed1-b9f2-9fd635e2118d)
 
 **Game** (**ALL** players):
 
