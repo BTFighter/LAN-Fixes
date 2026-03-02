@@ -1,6 +1,6 @@
 ![The Escapists 2](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/641990/header.jpg)  
 # The Escapists 2
-Tested with Build 5292929.
+Only works with Build 5292929.
 
 [**Photon SDK Server v4.0.28.2962**](https://archive.org/details/photon-server-v-4.0.28.2962) is required.
 

@@ -1,6 +1,6 @@
 ![Phasmophobia](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/739630/c227a2855aba60f3657bc0c3a46515b8c41fb2b6/header.jpg)  
 # Phasmophobia
-ONLY works with v0.174 (September 30, 2020).
+Only works with v0.174 (September 30, 2020).
 
 [**Photon SDK Server v4.0.29.11263**](https://archive.org/details/photon-server-sdk_v4-0-29-11263) is required.
 

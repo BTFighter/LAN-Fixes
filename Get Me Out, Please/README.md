@@ -1,6 +1,6 @@
 ![Get Me Out, Please](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2441360/header.jpg)  
 # Get Me Out, Please
-Tested with v1.1.0.
+Only works with v1.1.0.
 
 [**Photon SDK Server v5.0.13.32034**](https://archive.org/details/photon-onpremises-server-classic-sdk_v5-0-13-32034.7z) and [**additional setup**](https://gist.github.com/Modac/01bd2b7a997a9fa7c36b0d8b548e7c47) is required.
 

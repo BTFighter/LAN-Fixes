@@ -1,6 +1,6 @@
 ![Half Dead](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/434730/header.jpg)  
 # Half Dead
-Tested with Build 2143410.
+Only works with Build 2143410.
 
 [**Photon SDK Server v4.0.28.2962**](https://archive.org/details/photon-server-v-4.0.28.2962) is required.
 

@@ -1,6 +1,6 @@
 ![Hover](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/280180/header.jpg)  
 # Hover
-Tested with Build 2800045.
+Only works with Build 2800045.
 
 [**Photon SDK Server v4.0.29.11263**](https://archive.org/details/photon-server-sdk_v4-0-29-11263) is required.
 
