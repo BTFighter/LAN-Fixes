@@ -30,4 +30,4 @@ _5._ Open "LANSettings.ini" then change "ServerAddress" to the IP of who is host
 
 _6._ Save and run the game.
 
-Then you can proceed to create a match and invite other players using the Overlay.
+Then you can proceed to create a match and other players can join using the Server Browser.
