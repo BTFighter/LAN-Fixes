@@ -1,6 +1,6 @@
-![Get Me Out, Please](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2441360/header.jpg)  
-# Get Me Out, Please
-Only works with v1.1.0.
+![Hand Simulator](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/657200/80594aec56074fb966e08723cd036afe744ca712/header.jpg)  
+# Hand Simulator
+Only for Build 18935795.
 
 [**Photon SDK Server v5.0.13.32034**](https://archive.org/details/photon-onpremises-server-classic-sdk_v5-0-13-32034.7z) and [**additional setup**](https://gist.github.com/Modac/01bd2b7a997a9fa7c36b0d8b548e7c47) is required.
 
@@ -30,4 +30,4 @@ _6._ Open "LANSettings.ini" then change "ServerAddress" to the IP of who is host
 
 _7._ Save and run the game.
 
-Then you can proceed to start a room using Quick Match and others can join using Server List.
+Then you can proceed to create a game and others can join in the server browser.
